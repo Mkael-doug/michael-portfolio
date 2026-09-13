@@ -80,18 +80,17 @@ export const servicesData = [
 export const projects = [
   {
     id: 1,
-    name: "Mobile Accessories E-commerce",
+    name: "Awwwards Website - Spylt",
     description:
-      "An online store specializing in phone accessories including cases, chargers, cables, and power banks with MagSafe compatibility.",
-    href: "",
-    image: "/assets/projects/mobile-accessories-store.jpg",
+      "A design system for Awwwards, a community of web designers and developers, with a clean, user-friendly interface.",
+    href: "https://gsap-awwwards-mu.vercel.app/",
+    image: "/assets/projects/spylt-awwwards.jpg",
     bgImage: "/assets/backgrounds/blanket.jpg",
     frameworks: [
       { id: 1, name: "React" },
-      { id: 2, name: "Next.js" },
-      { id: 3, name: "Node.js" },
-      { id: 4, name: "MongoDB" },
-      { id: 5, name: "Tailwind CSS" },
+      { id: 2, name: "GSAP" },
+      { id: 3, name: "Vite" },
+      { id: 4, name: "Tailwind CSS" },
     ],
   },
   {
